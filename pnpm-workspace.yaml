@@ -1,3 +1,4 @@
 allowBuilds:
+  msnodesqlv8: true
   sharp: false
   unrs-resolver: false
